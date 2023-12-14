@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chuey1a
-- 👀 I’m interested in embedded systems
-- 🌱 I’m currently learning Java, Python, HTML, CSS
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning JS, react, HTML, CSS
 - 📫 How to reach me chuhavemail@gmail.com
 
 <!---
